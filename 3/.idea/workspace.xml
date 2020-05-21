@@ -19,8 +19,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1cAFfbWVTOKk4Ofvs5t5xVOcCwJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,6 +34,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -42,6 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1589963594483</updated>
       <workItem from="1589963595749" duration="6975000" />
+      <workItem from="1590066770365" duration="28000" />
     </task>
     <servers />
   </component>
@@ -53,9 +59,17 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="487" y="0" key="#PHP/0.0.1536.824@0.0.1536.824" timestamp="1589972832916" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1590066801026">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590066801026" />
     <state x="604" y="332" key="NewPhpFileDialog" timestamp="1589963611472">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="604" y="332" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1589963611472" />
+    <state x="444" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1590066770477">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="444" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590066770477" />
   </component>
 </project>

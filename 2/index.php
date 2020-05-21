@@ -1,9 +1,11 @@
 <?php
 
-replace();
-function replace(){
-require "main.html";
-$str=$_REQUEST["text"];
+if (isset($_POST["text"])) {
+    $str = $_POST["text"];
+    replace($str);
+} else include ("main.html");
+
+function replace($str){
 $new_str="";
 foreach ($gen = generator($str) as $value){
 $new_str = $new_str.$value;
@@ -36,6 +38,7 @@ function generator($str){
                 $replace++;
                 break;
 
+            default: yield $str[$i];
         }
     }
     return $replace;
